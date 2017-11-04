@@ -1,6 +1,8 @@
 nano-signal-slot
 ================
 
+![](https://travis-ci.org/samaursa/nano-signal-slot.svg?branch=master)
+
 Pure C++11 Signals and Slots
 
 #### Include
